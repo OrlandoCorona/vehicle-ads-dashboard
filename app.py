@@ -32,7 +32,7 @@ html, body, [class*="css"] {
 }
 .hero .title {
     font-family: 'Playfair Display', serif;
-    font-size: 64px; /* <-- AUMENTADO */
+    font-size: 64px;
     font-weight: 400;
 }
 .hero .subtitle {
@@ -54,7 +54,7 @@ html, body, [class*="css"] {
 
 .full-width-container .stDataFrame table {
     width: 100% !important;
-    font-size: 1rem !important; /* <-- AUMENTADO */
+    font-size: 1rem !important;
 }
 
 
